@@ -1,6 +1,7 @@
 {
     "aliases": [
-        "grouptool-info"
+        "grouptool-info",
+        "grouptool-infobundle"
     ],
     "bundles": {
         "InfoBundle": [
